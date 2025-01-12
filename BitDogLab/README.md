@@ -110,7 +110,6 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Selecione também o boardtype como Pico W e em baixo escolha o diretorio que deseja armazenar o exemplo. <br>
   
   ![create](img/create.png)<br>
-  
   - Após isso clique em create, irá sugir uma nova aba do VScode onde iremos ter o código em um arquivo chamado blink.c <br>
   - Quando selecionar o código veja que na parte inferior da tela tem um botão chamado "compile". <br>
   - Agora que o código foi processado pelo compilador é gerado um arquivo .uf dentro da sua pasta. <br>
