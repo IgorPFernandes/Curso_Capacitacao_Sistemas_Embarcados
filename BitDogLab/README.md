@@ -88,4 +88,3 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   <summary>Detalhes</summary>
   - 
 </details>
-
