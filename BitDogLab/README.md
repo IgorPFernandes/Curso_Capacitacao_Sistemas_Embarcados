@@ -16,10 +16,11 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
-  - Baixe AArch32 bare-metal no formato .exe (executável). Link: https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads  
-  - Cuidado que no final da instalação é importante você marcar a caixinha declarando que você deseja adicionar as variáveis de ambiente (Add Path to Environment Variable).
-  
-  ![gnu arm](img/aarch32bare-metal.png)
+- Baixe AArch32 bare-metal no formato .exe (executável). Link: https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads  
+- Cuidado que no final da instalação é importante você marcar a caixinha declarando que você deseja adicionar as variáveis de ambiente (Add Path to Environment Variable).  
+
+![gnu arm](img/aarch32bare-metal.png)
+
   
 </details>
 
