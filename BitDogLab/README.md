@@ -7,7 +7,9 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
+  
   - Baixe o Visual Studio Code no [site oficial](https://code.visualstudio.com/).<br>
   - Siga o assistente de instalação para a sua plataforma (Windows, macOS ou Linux).<br>
 </details>
@@ -16,7 +18,9 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
+  
   - Baixe AArch32 bare-metal no formato .exe (executável). Link: https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads<br>
   - Cuidado que no final da instalação é importante você marcar a caixinha declarando que você deseja adicionar as variáveis de ambiente (Add Path to Environment Variable).<br>
   <br>
@@ -29,7 +33,9 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
+  
   - Acesse o repositório: https://github.com/raspberrypi/pico-setup-windows/releases/tag/v1.5.1.<br>
   - Clique em last release na direita inferior.<br>
   - Baixe a última versão standalone no formato .exe<br>
@@ -45,7 +51,9 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
+  
   - Segure o botão Windows e aperte R.<br>
   - No campo de texto escreva **sysdm.cpl**, vá em **Avançados** e **Variáveis de Ambiente**.<br>
   - A partir daqui, você vai encontrar dois campos: um das variáveis do usuário e outro das variáveis do sistema.<br>
@@ -68,7 +76,9 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
+  
   - Abra o VSCode, vá no ícone de extensões e instale o **CMake** e **CMakeTools**:<br>
   <br>
   
