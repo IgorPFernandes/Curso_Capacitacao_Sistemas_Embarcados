@@ -143,5 +143,22 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   
   <br>
   
-  - Para colocar no modo 
+  - Conecte o dispositivo via USB, caso apareça um novo particionamento (Ex: Como um prendive sendo colocado) é porque já está em modo bootsel e não precisa prosseguir.
+  - Para colocar no modo bootsel, mantenha pressionado o botão branco bootsel da imagem por 3 segundos. <br>
+
+  ![bootsel](img/botboot.jpg)<br>
+
+  - Em seguida pressione o botão reset da imagem e solte ambos botões. <br>
+
+  ![reset](img/botreset.jpg)<br>
+
+  - Quando aparecer um novo compartimento no seu computador (Ex: Como um pendrive conectando) é porque foi um sucesso. <br>
+  - Sempre que precisar embarcar um novo código é necessário entrar no modo bootsel. <br>
+  - Agora volte ao VScode (Na folder blink), clique no icone da extensão pi pico projects e selecione Run Project (USB) <br>
+
+  img
+
+  - Parabéns!!! Você embarcou seu primeiro projeto no BitDogLab!! <br>
+
+  gif
 </details>
