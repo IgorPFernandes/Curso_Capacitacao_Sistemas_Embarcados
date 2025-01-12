@@ -160,6 +160,6 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
   - Parabéns!!! Você embarcou seu primeiro projeto no BitDogLab!! <br>
 
-  ![blink1](blink1.gif)
+  ![blink1](img/blink1.gif)
   
 </details>
