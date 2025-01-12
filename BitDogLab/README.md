@@ -31,7 +31,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Abra o instalador como administrador e anote o local da instalação em algum canto.<br>
   - No final, escolha uma pasta de fácil acesso para você colocar os exemplos (blink, pwm, etc...) para que você possa testar ou aprender.<br>
   <br>
-  img<br>
+  ![pico(img/pico-sdk.png)<br>
 </details>
 
 ## Passo 4. Variáveis de Ambiente
@@ -51,7 +51,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Agora que você fez isso em variáveis de usuário, faça o mesmo processo em variáveis do sistema.<br>
   - Só faça esse processo caso as variáveis de ambiente ("PIKO_SDK_PATH" e "PICO_TOOLCHAIN_PATH") não estiverem listadas.<br>
   <br>
-  img<br>
+  ![Variáveis de Ambiente](img/varamb.png)<br>
 </details>
 
 ## Passo 5. Instalação e configuração das Extensões CMake, CMakeTools e Raspberry Pi Pico
@@ -60,20 +60,20 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   <summary>Detalhes</summary>
   - Abra o VSCode, vá no ícone de extensões e instale o **CMake** e **CMakeTools**:<br>
   <br>
-  img<br>
+  ![cmake e cmaketools](img/cmake_cmaketools.png)<br>
   - O **CMakeTools** precisa ser configurado. Clique na engrenagem que aparece na tela do plug-in e selecione **Settings**.<br>
   - Procure pelo nome **CMake Path** e confirme que está escrito "cmake" (sem aspas).<br>
   <br>
-  img<br>
+  ![cmake path](img/cmakepath.png)<br>
   - Logo em baixo está "CMake: Configure Environment". Caso não haja nenhuma linha adicionada, clique em **Add** e adicione o item "PICO_SDK_PATH" (sem aspas) e, em **Value**, o diretório de instalação (Exemplo: **C:\Program Files\Raspberry Pi\Pico SDK v1.5.1**).<br>
   <br>
-  img<br>
+  ![configuração de ambiente](img/configenv.png)<br>
   - Agora busque por **generator** e escreva "NMake Makefiles" (sem aspas).<br>
   <br>
-  img<br>
+  ![generator](img/generator.png)<br>
   - De volta ao menu de extensões, procure por **Raspberry Pi Pico** e instale.<br>
   <br>
-  img<br>
+  ![raspberry pi pico extensão](img/raspb.png)<br>
 </details>
 
 ## Passo 6. Testando Exemplos
