@@ -156,7 +156,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Sempre que precisar embarcar um novo código é necessário entrar no modo bootsel. <br>
   - Agora volte ao VScode (Na folder blink), clique no icone da extensão pi pico projects e selecione Run Project (USB) <br>
 
-  img
+  ![run](img/run.png)<br>
 
   - Parabéns!!! Você embarcou seu primeiro projeto no BitDogLab!! <br>
 
