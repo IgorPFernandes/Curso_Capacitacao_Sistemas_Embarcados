@@ -18,4 +18,8 @@ O principal objetivo deste repositório é **aprender enquanto ensino**. Ao comp
 
 ## Conteúdo do Repositório 🔍
 
-Neste repositório, irei disponibilizar informações sobre como utilizar as placas fornecidas pelo curso, incluindo exemplos práticos e tutoriais. Também compartilharei as atividades realizadas durante o curso, além dos meus projetos pessoais desenvolvidos ao longo do aprendizado em **Sistemas Embarcados**. O objetivo é criar um ambiente colaborativo, onde o ensino e a aprendizagem acontecem de forma contínua e aberta. Para ter acesso ao conteúdo didático acesse a pasta BigDogLab e leia o readme.
+Neste repositório, irei disponibilizar informações sobre como utilizar as placas fornecidas pelo curso, incluindo exemplos práticos e tutoriais. Também compartilharei as atividades realizadas durante o curso, além dos meus projetos pessoais desenvolvidos ao longo do aprendizado em **Sistemas Embarcados**. O objetivo é criar um ambiente colaborativo, onde o ensino e a aprendizagem acontecem de forma contínua e aberta.
+
+## Aprendendo a Utilizar 🛠️
+
+Para aprender a preparar o VScode como ambiente de desenvolvimento do piko sdk, abra a pasta BitDogLab e Leia o readme.
