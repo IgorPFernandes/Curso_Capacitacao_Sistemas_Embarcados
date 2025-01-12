@@ -133,7 +133,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Após isso clique em create, irá sugir uma nova aba do VScode onde iremos ter o código em um arquivo chamado blink.c <br>
   - Quando selecionar o código veja que na parte inferior da tela tem um botão chamado "compile". <br>
   - Agora que o código foi processado pelo compilador é gerado um arquivo .uf dentro da sua pasta. <br>
-  - Você poderá embarcar o código de duas formas, mas antes vamos aprender a deixar o nosso pi pico W no modo bootsel. <br>
+  - Você poderá embarcar o código, mas antes vamos aprender a deixar o nosso pi pico W no modo bootsel. <br>
 </details>
 
 ## Passo 8. Modo Bootsel
