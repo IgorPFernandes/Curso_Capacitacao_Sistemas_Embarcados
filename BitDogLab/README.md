@@ -7,6 +7,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - Baixe o Visual Studio Code no [site oficial](https://code.visualstudio.com/).<br>
   - Siga o assistente de instalação para a sua plataforma (Windows, macOS ou Linux).<br>
 </details>
@@ -15,6 +16,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - Baixe AArch32 bare-metal no formato .exe (executável). Link: https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads<br>
   - Cuidado que no final da instalação é importante você marcar a caixinha declarando que você deseja adicionar as variáveis de ambiente (Add Path to Environment Variable).<br>
   <br>
@@ -27,6 +29,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - Acesse o repositório: https://github.com/raspberrypi/pico-setup-windows/releases/tag/v1.5.1.<br>
   - Clique em last release na direita inferior.<br>
   - Baixe a última versão standalone no formato .exe<br>
@@ -42,6 +45,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - Segure o botão Windows e aperte R.<br>
   - No campo de texto escreva **sysdm.cpl**, vá em **Avançados** e **Variáveis de Ambiente**.<br>
   - A partir daqui, você vai encontrar dois campos: um das variáveis do usuário e outro das variáveis do sistema.<br>
@@ -64,6 +68,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - Abra o VSCode, vá no ícone de extensões e instale o **CMake** e **CMakeTools**:<br>
   <br>
   
@@ -96,6 +101,8 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
+  
   - Atavés do link: https://zadig.akeo.ie/. Baixe a última versão. <br>
   - Quando finalizado inicialize o executável como administrador e verifique se o driver em questão está como "RP2 Boot (Interface 1)"
   - Confirme a instalação.
@@ -105,11 +112,14 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
+  
   - Abra o VScode, selecione o icone da extensão Raspberry Pi Pico que aparece a sua esquerda e clique em "New Project From Examples". <br>
   - A partir daqui iremos clicar na seta da primeira caixa de seleção e selecionar o arquivo blink. <br>
   - Selecione também o boardtype como Pico W e em baixo escolha o diretorio que deseja armazenar o exemplo. <br>
   
   ![create](img/create.png)<br>
+  
   - Após isso clique em create, irá sugir uma nova aba do VScode onde iremos ter o código em um arquivo chamado blink.c <br>
   - Quando selecionar o código veja que na parte inferior da tela tem um botão chamado "compile". <br>
   - Agora que o código foi processado pelo compilador é gerado um arquivo .uf dentro da sua pasta. <br>
@@ -120,5 +130,6 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  <br>
   - 
 </details>
