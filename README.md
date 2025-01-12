@@ -10,7 +10,7 @@ A placa utilizada é a **BitDogLab** baseada na **Raspberry Pi Pico W**, com sup
 
 O principal objetivo deste repositório é **aprender enquanto ensino**. Ao compartilhar o progresso e os projetos desenvolvidos, espero consolidar meu aprendizado e contribuir com a comunidade. Aqui, você encontrará projetos de eletrônica, programação e integração de sistemas, todos baseados na plataforma Embarcatech.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🔧
 
 - **Raspberry Pi Pico**
 - **MicroPython**
