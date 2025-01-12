@@ -92,9 +92,32 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   
 </details>
 
-## Passo 6. Testando Exemplos
+## Passo 6. Instalador Zadig, Driver RP2040 para embarcar diretamente pelo VScode
 
 <details>
   <summary>Detalhes</summary>
-  - <br>
+  - Atavés do link: https://zadig.akeo.ie/. Baixe a última versão. <br>
+  - Quando finalizado inicialize o executável como administrador e verifique se o driver em questão está como "RP2 Boot (Interface 1)"
+  - Confirme a instalação.
+</details>
+
+## Passo 7. Testando Exemplos
+
+<details>
+  <summary>Detalhes</summary>
+  - Abra o VScode, selecione o icone da extensão Raspberry Pi Pico que aparece a sua esquerda e clique em "New Project From Examples". <br>
+  - A partir daqui iremos clicar na seta da primeira caixa de seleção e selecionar o arquivo blink. <br>
+  - Selecione também o boardtype como Pico W e em baixo escolha o diretorio que deseja armazenar o exemplo. <br>
+  img
+  - Após isso clique em create, irá sugir uma nova aba do VScode onde iremos ter o código em um arquivo chamado blink.c <br>
+  - Quando selecionar o código veja que na parte inferior da tela tem um botão chamado "compile". <br>
+  - Agora que o código foi processado pelo compilador é gerado um arquivo .uf dentro da sua pasta. <br>
+  - Você poderá embarcar o código de duas formas, mas antes vamos aprender a deixar o nosso pi pico W no modo bootsel. <br>
+</details>
+
+## Passo 8. Modo Bootsel
+
+<details>
+  <summary>Detalhes</summary>
+  - 
 </details>
