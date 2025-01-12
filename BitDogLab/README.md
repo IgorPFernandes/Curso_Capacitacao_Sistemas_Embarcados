@@ -140,6 +140,8 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
 
 <details>
   <summary>Detalhes</summary>
+  
   <br>
-  - 
+  
+  - Para colocar no modo 
 </details>
