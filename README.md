@@ -4,7 +4,7 @@ Este repositório tem como objetivo documentar meus estudos na área de **Sistem
 
 ## A Placa
 
-A placa utilizada é baseada na **Raspberry Pi Pico**, com suporte a diversas interfaces e recursos, permitindo uma ampla gama de experimentos e aplicações. Essa ferramenta é essencial para explorar conceitos como **IoT**, **controle de dispositivos** e **processamento embarcado**.
+A placa utilizada é a **BitDogLab** baseada na **Raspberry Pi Pico W**, com suporte a diversas interfaces e recursos, permitindo uma ampla gama de experimentos e aplicações. Essa ferramenta é essencial para explorar conceitos como **IoT**, **controle de dispositivos** e **processamento embarcado**.
 
 ## Objetivo do Repositório
 
@@ -18,4 +18,4 @@ O principal objetivo deste repositório é **aprender enquanto ensino**. Ao comp
 
 ## Conteúdo do Repositório
 
-Neste repositório, irei disponibilizar informações sobre como utilizar as placas fornecidas pelo curso, incluindo exemplos práticos e tutoriais. Também compartilharei as atividades realizadas durante o curso, além dos meus projetos pessoais desenvolvidos ao longo do aprendizado em **Sistemas Embarcados**. O objetivo é criar um ambiente colaborativo, onde o ensino e a aprendizagem acontecem de forma contínua e aberta.
+Neste repositório, irei disponibilizar informações sobre como utilizar as placas fornecidas pelo curso, incluindo exemplos práticos e tutoriais. Também compartilharei as atividades realizadas durante o curso, além dos meus projetos pessoais desenvolvidos ao longo do aprendizado em **Sistemas Embarcados**. O objetivo é criar um ambiente colaborativo, onde o ensino e a aprendizagem acontecem de forma contínua e aberta. Para ter acesso ao conteúdo didático acesse a pasta BigDogLab e leia o readme.
