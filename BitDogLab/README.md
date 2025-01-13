@@ -59,7 +59,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - A partir daqui, você vai encontrar dois campos: um das variáveis do usuário e outro das variáveis do sistema.<br>
   - Em ambos você vai seguir o mesmo processo: primeiro clique em **Novo**.<br>
   - Irá aparecer dois campos:<br>
-    - Em **Nome da variável** você irá inserir "PIKO_SDK_PATH" (sem aspas).<br>
+    - Em **Nome da variável** você irá inserir "PICO_SDK_PATH" (sem aspas).<br>
     - Em **Valor da variável** você irá inserir o diretório de onde você fez a instalação do pico-sdk (Exemplo: **C:\Program Files\Raspberry Pi\Pico SDK v1.5.1**).<br>
   - Confirme e, novamente, vamos clicar em **Novo**.<br>
   - Em **Nome da variável** você irá inserir "PICO_TOOLCHAIN_PATH" (sem aspas).<br>
