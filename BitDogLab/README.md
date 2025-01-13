@@ -54,7 +54,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   
   <br>
   
-  - Segure o botão Windows e aperte R.<br>
+  - Segure o botão Windows + R.<br>
   - No campo de texto escreva **sysdm.cpl**, vá em **Avançados** e **Variáveis de Ambiente**.<br>
   - A partir daqui, você vai encontrar dois campos: um das variáveis do usuário e outro das variáveis do sistema.<br>
   - Em ambos você vai seguir o mesmo processo: primeiro clique em **Novo**.<br>
