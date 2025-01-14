@@ -65,7 +65,7 @@ Por enquanto, apenas consegui embarcar códigos já prontos de outras pessoas pe
   - Em **Nome da variável** você irá inserir "PICO_TOOLCHAIN_PATH" (sem aspas).<br>
   - Em **Valor da variável** você irá inserir o diretório do pico-sdk propriamente dito (Exemplo: **C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\pico-sdk**).<br>
   - Agora que você fez isso em variáveis de usuário, faça o mesmo processo em variáveis do sistema.<br>
-  - Só faça esse processo caso as variáveis de ambiente ("PIKO_SDK_PATH" e "PICO_TOOLCHAIN_PATH") não estiverem listadas.<br>
+  - Só faça esse processo caso as variáveis de ambiente ("PICO_SDK_PATH" e "PICO_TOOLCHAIN_PATH") não estiverem listadas.<br>
   <br>
   
   ![Variáveis de Ambiente](img/varamb.png)<br>
