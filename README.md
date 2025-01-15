@@ -23,3 +23,7 @@ Neste repositório, irei disponibilizar informações sobre como utilizar as pla
 ## Aprendendo a Utilizar 🛠️
 
 Para aprender a preparar o VScode como ambiente de desenvolvimento do piko sdk, abra a pasta BitDogLab e Leia o readme.
+
+## Problemas comuns
+
+- [Confira um lista com soluções para problemas comuns](FAQ.md).
