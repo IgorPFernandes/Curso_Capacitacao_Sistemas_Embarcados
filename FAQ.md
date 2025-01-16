@@ -3,11 +3,12 @@
 Lista de erros e soluções para a placa de prototipagem Raspberry Pi Pico W.
 
 <!--toc:start-->
-- [FAQ - Problemas comuns na configuração da placa BitDogLab](#faq-problemas-comuns-na-configuração-da-placa-bitdoglab)
+- [FAQ - Problemas comuns na configuração da placa BitDogLab ❓❔](#faq-problemas-comuns-na-configuração-da-placa-bitdoglab)
   - [Não consigo usar o monitor serial](#não-consigo-usar-o-monitor-serial)
   - [Estou com erros de importação](#estou-com-erros-de-importação)
   - [Minha placa não aparece no Zadik](#minha-placa-não-aparece-no-zadik)
   - [A placa não aparece no gerenciador de dispositivos](#a-placa-não-aparece-no-gerenciador-de-dispositivos)
+  - [O código mostra erros e não consigo clicar em compile. Nada mais resolve](#o-código-mostra-erros-e-não-consigo-clicar-em-compile-nada-mais-resolve)
 <!--toc:end-->
 
 ## Não consigo usar o monitor serial
@@ -25,8 +26,12 @@ pico_enable_stdio_usb(neopixel_pio 1)
 
 ## Estou com erros de importação
 
-- Use o botão `Clean CMake` da extensão. Ele irá remover o cache e os arquivos de build, fazendo uma compilação limpa novamente.
-- Declare o uso de bibliotecas externas dentro do arquivo `CMakeLists`. Faça isso adicionando ou modificado a seguinte linha:
+- Use o botão `Configure CMake`.
+- Use o botão `Clean CMake` da extensão.
+Ele irá remover o cache e os arquivos de build, fazendo uma compilação limpa novamente.
+- Use o botão `Import Project` e selecione o diretório do projeto.
+- Declare o uso de bibliotecas externas dentro do arquivo `CMakeLists`.
+Faça isso adicionando ou modificado a seguinte linha:
 
   ```cmake
   target_link_libraries([executavel] [biblioteca])
@@ -49,3 +54,11 @@ pico_enable_stdio_usb(neopixel_pio 1)
 
 - Se não aparece no modo BOOTSEL: instale o driver WinUSB na interface 1
 - Se não aparece no modo normal:  instale o USB Serial (CDC) na interface 0
+
+## O código mostra erros e não consigo clicar em compile. Nada mais resolve
+
+Siga os passos:
+
+1. Feche o VSCode
+2. Delete a pasta `.pico-sdk` da raiz do seu usuário
+3. Crie um novo projeto e deixe a extensão baixar tudo novamente.
