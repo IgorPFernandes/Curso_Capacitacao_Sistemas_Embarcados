@@ -44,4 +44,4 @@ Este projeto proporcionou uma excelente oportunidade de aprendizado sobre contro
 
 ## Vídeo do Projeto
 
-[![Vídeo do Projeto](img/i1.jpg)](video/v1.mp4)
+![GIF do Projeto](gif/v2.gif)
