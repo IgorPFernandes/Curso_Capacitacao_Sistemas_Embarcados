@@ -1,0 +1,10 @@
+- Controlar Matriz de Pixel para Formato de Coração
+- Controlar Buzzer
+- Controlar LCD
+- Controlar Microfone
+- Controlar Joystick (feito)
+- Controlar PWM
+- Controlar LED RGB
+- Comunicação Serial (Enviar e Receber Dados)
+- Controlar Braço Robótico com Joystick + Botão e Informações no LCD
+- Controlar Matriz de LED ou LCD para criação de um joguinho.
