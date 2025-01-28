@@ -18,7 +18,7 @@ Este é um projeto de braço robótico de acrílico utilizando a plaquinha BitDo
 - Joystick
 - Display OLED via I2C
 - Servos (conectados nas portas 3, 4, 8 e 9)
-- Fonte de 5V, 2A
+- Fonte de 5V, 3.1A
 - Capacitor de 470uF
 
 ## Como Funciona
